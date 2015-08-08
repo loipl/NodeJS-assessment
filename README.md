@@ -6,7 +6,7 @@ Requirements
 Instructions
 
 1. Create a Github account if you don’t have one already
-2. Send an email to jason at leadwrench dot com with the subject of “NodeJS Skills Assessment” and include your Github account ID in the body. You will have 2 hour to complete the assessment from the time you send this email.
+2. Send an email to jason at leadwrench dot com with the subject of “NodeJS Skills Assessment” and include your Github account ID in the body. You will have 1,5 hour to complete the assessment from the time you send this email.
 3. Fork the repository at: https://github.com/loipl/NodeJS-assessment into your account
 4. Pull your forked repository into your IDE
 5. Install dependencies from "package.json"
